@@ -1,0 +1,21 @@
+{
+    "name": "moxuandi/dingtalk",
+    "description": "钉钉开发平台SDK, 服务端API, PHP",
+    "type": "extension",
+    "keywords": ["dingtalk"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "moxuandi",
+            "email": "1104984259@qq.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2.5|^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "moxuandi\\dingtalk\\": ""
+        }
+    }
+}
